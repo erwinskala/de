@@ -106,5 +106,6 @@ $w50=array("lass mich in Ruhe"=>"оставь меня в покое","die Schla
 
 //New text
 //New text2
+//Commit 2
 
 $array=$w50; $ch=0;
